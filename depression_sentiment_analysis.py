@@ -87,7 +87,6 @@ def nbTrain():
     
     
 #    print(predictr)
-#    print(predictt)
 
     print("Naive Bayes  Accuracy : \n", nbscore,"%")
     print(" Completion Speed", round((time.time() - start_timenb),5))
