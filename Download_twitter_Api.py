@@ -2,7 +2,7 @@ import tweepy
 from tweepy.streaming import StreamListener
 from tweepy import OAuthHandler
 from tweepy import Stream
-
+from tweepy
 
 consumer_key = 'UqHRhFlJ7KXj5onzKFkdUI9uq'
 consumer_secret = 'm7xO2XlzuyuQ7gQtvwKz4d7weZIl0Zs0KiRrakRjzCaQoUzkgK'
