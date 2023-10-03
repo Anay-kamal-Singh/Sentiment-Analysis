@@ -26,7 +26,7 @@ def predict_sentiment(preprocessed_text):
 
 # Define the Streamlit app
 def main():
-    # Set the title of the app
+    # Set the title 
     st.title('Sentiment Analysis App')
 
     # Get user input
